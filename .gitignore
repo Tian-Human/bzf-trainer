@@ -1,0 +1,9 @@
+# Original-PDF des Fragenkatalogs (wird nur lokal zum Erzeugen von data/fragen.json gebraucht)
+quelle/
+
+# Lokale Werkzeuge und Systemdateien
+.claude/
+.vercel/
+__pycache__/
+.DS_Store
+Thumbs.db

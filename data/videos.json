@@ -1,0 +1,73 @@
+[
+ {
+  "gruppe": "Funk-Simulationen für das BZF",
+  "videos": [
+   {
+    "titel": "VFR Sprechfunk (BZF 1 & 2)",
+    "url": "https://www.youtube.com/playlist?list=PLLUYpKNB1abtXFlCyAyGMohFZNJ_wzEu_",
+    "kanal": "Aviation Hero",
+    "art": "Playlist",
+    "sprache": "Deutsch und Englisch",
+    "beschreibung": "Komplette An- und Abflüge an verschiedenen deutschen Flughäfen, auf Deutsch (BZF II) und auf Englisch (BZF I)."
+   },
+   {
+    "titel": "VFR Sprechfunk: Braunschweig EDVE auf Deutsch (BZF 2)",
+    "url": "https://www.youtube.com/watch?v=rUDhyTMXeQY",
+    "kanal": "Aviation Hero",
+    "art": "Video",
+    "sprache": "Deutsch",
+    "beschreibung": "Beispiel aus der Playlist: Abflug und Anflug in Braunschweig, komplett auf Deutsch."
+   },
+   {
+    "titel": "VFR Sprechfunk: Berlin EDDB auf Englisch (BZF 1)",
+    "url": "https://www.youtube.com/watch?v=ieio4d_CxBc",
+    "kanal": "Aviation Hero",
+    "art": "Video",
+    "sprache": "Englisch",
+    "beschreibung": "Beispiel aus der Playlist auf Englisch – nur für das BZF I nötig."
+   }
+  ]
+ },
+ {
+  "gruppe": "Grundlagen erklärt",
+  "videos": [
+   {
+    "titel": "Serie Flugfunk-Grundlagen",
+    "url": "https://www.youtube.com/playlist?list=PLeOjOPNLHZGJs1AbyaqeWRIkOGmytU7_f",
+    "kanal": "PROP FREI – Ultraleicht Fliegen Lernen",
+    "art": "Playlist",
+    "sprache": "Deutsch",
+    "beschreibung": "Mehrteilige Einführung in die Grundlagen des Flugfunks, gut für den Einstieg."
+   },
+   {
+    "titel": "SVFR – Die Sonder-VFR",
+    "url": "https://www.youtube.com/watch?v=oRF1rtJOU74",
+    "kanal": "Fluglehrerteam",
+    "art": "Video",
+    "sprache": "Deutsch",
+    "beschreibung": "Erklärt Sonderflüge nach Sichtflugregeln in der Kontrollzone."
+   },
+   {
+    "titel": "Kanal Fluglehrerteam",
+    "url": "https://www.youtube.com/@fluglehrerteam83",
+    "kanal": "Fluglehrerteam",
+    "art": "Kanal",
+    "sprache": "Deutsch",
+    "beschreibung": "Weitere Erklärvideos und Webinare zu BZF und AZF."
+   }
+  ]
+ },
+ {
+  "gruppe": "Echter Funkverkehr",
+  "videos": [
+   {
+    "titel": "Ultraleichtflugzeug Funk mit Langen Information",
+    "url": "https://www.youtube.com/watch?v=hOfS8dHSuuw",
+    "kanal": "Pilot_Frank",
+    "art": "Video",
+    "sprache": "Deutsch",
+    "beschreibung": "Mitschnitt eines echten Flugs: An- und Abmelden beim Fluginformationsdienst (FIS)."
+   }
+  ]
+ }
+]
